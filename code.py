@@ -1,0 +1,1 @@
+print("durga prasad lakku")
